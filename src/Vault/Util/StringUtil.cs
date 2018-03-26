@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Vault.Util
 {
-    public static class StringUtil
+    internal static class StringUtil
     {
         public static string ListToCsvString(List<string> input)
         {
