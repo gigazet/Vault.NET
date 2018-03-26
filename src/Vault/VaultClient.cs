@@ -3,7 +3,6 @@ using System.Threading;
 using System.Threading.Tasks;
 using Vault.Endpoints;
 using Vault.Endpoints.Sys;
-using Microsoft.Extensions.Options;
 using System.Collections.Specialized;
 using System.Linq;
 using System.Net;
